@@ -1,2 +1,7 @@
 # bsydecrypt
-a tool can decrypt the file from 寶石研物語
+
+用於解密寶石研物語檔案
+
+解密部分是利用IDA PRO逆向.so出彙編碼後修改而成
+
+Required : .net framework 4.6.1 及 Visual Studio C++ 2017
